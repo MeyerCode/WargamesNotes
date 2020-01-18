@@ -22,14 +22,3 @@
 | natas19 | 4IwIrekcuZlA9OsjOkoUtwU6lhokCPYs |
 | natas20 | eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF |
 
-
-Key is something like:  qw8Jqw8Jqw8Jqw8Jqw8Jqw8Jqw8Jqw8Jq!n'!nJq
-Probably: qw8J
-natas12: EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
-
-Natas13: jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
-Form: http://natas13.natas.labs.overthewire.org/upload/kn4d1bddmv.html
-Cmd: http://natas13.natas.labs.overthewire.org/upload/xajmxu0nsn.php
-
-(cookie: 3238312d61646d696e)
-Natas20: eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF
