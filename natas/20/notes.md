@@ -30,7 +30,14 @@
 ## Main Objective
 - Have to get "admin"=>1 into session variable somehow
 - This is probably by getting some data read into session variable by myread(id)
-- maybe I will have to write some data first in mywrite(id, data)?...........
+- data returned by myread is written by mywrite
 
 ## Weird Things
-- double slashes in write path -> maybe creates some weird behavior but was not able to request path in initial attempt... 
+- double slashes in write path -> maybe causes some weird behavior but was not able to request file path in initial attempt... 
+
+## Solution 
+- All I had to do was post a name like: 
+`name
+admin 1`
+- newline isn't escaped
+- then GET /index.php with same sid
