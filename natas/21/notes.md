@@ -9,3 +9,5 @@
 ## XSS
 - Managed to feed a script in "fontsize" field: 
     - `fontsize=200%;'><script>alert(1)</script></div><div style=background-color: red`
+- Click on link with javascript? or just forward?
+- `window.location.replace('http://natas21.natas...')`
